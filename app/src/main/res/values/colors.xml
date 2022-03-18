@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#002F5E</color>
+    <color name="colorPrimaryDark">#011339</color>
+    <color name="colorAccent">#E7EBF0</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackTransparent">#80000000</color>
+    <color name="colorPrimaryIconsTint">#0083CB</color>
+    <color name="colorAllViewBgTint">#BED747</color>
+
+    <color name="colorBgSwitch">#0083CB</color>
+    <color name="color_main_greeeting">#7F96AE</color>
+    <color name="bgLoginStatusBar">@color/colorPrimary</color>
+    <color name="textColorPrimary">#3D3D3D</color>
+
+    <color name="bgButtonStroke">#516470</color>
+    <color name="bgButton">#F3F9FD</color>
+    <color name="bgButtonDisabled">#EEEEEE</color>
+    <color name="bgButtonStrokeDisabled">#CCCCCC</color>
+
+</resources>
